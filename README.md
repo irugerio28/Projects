@@ -32,3 +32,18 @@ Implementación desde cero de algoritmos matemáticos fundamentales para ingenie
    ```bash
    git clone [https://github.com/irugerio28/Geomatics-Engineering-Portfolio.git](https://github.com/irugerio28/Geomatics-Engineering-Portfolio.git)
    cd Geomatics-Engineering-Portfolio
+2. Requisitos: Se recomienda usar Python 3.8+ y las siguientes librerías:
+pip install numpy pandas matplotlib scipy
+3. Ejecutar Demos: Cada módulo numérico incluye demostraciones integradas. Ejecútalos directamente:
+python metodos_numericos/analisis_ecuaciones_diferenciales.py
+
+🛠 Tecnologías Utilizadas
+Lenguajes: Python, SQL (PL/pgSQL).
+
+Librerías Científicas: NumPy, Pandas, SciPy, Matplotlib.
+
+Geomática: PostGIS, Sistemas de Referencia (GRS80/WGS84).
+
+Autor: Ivan Rugerio
+
+Ingeniero en Geomática - UNAM
